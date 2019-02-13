@@ -11,14 +11,14 @@
     <dependencies>
         <dependency>
             <groupId>eu.headcrashing.payara.bugs</groupId>
-            <artifactId>annotated</artifactId>
+            <artifactId>a</artifactId>
             <version>1</version>
             <type>war</type>
         </dependency>
 
         <dependency>
             <groupId>eu.headcrashing.payara.bugs</groupId>
-            <artifactId>none</artifactId>
+            <artifactId>b</artifactId>
             <version>1</version>
             <type>war</type>
         </dependency>

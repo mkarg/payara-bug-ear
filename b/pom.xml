@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>eu.headcrashing.payara.bugs</groupId>
-    <artifactId>none</artifactId>
+    <artifactId>b</artifactId>
     <version>1</version>
     <packaging>war</packaging>
 

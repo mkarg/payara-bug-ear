@@ -9,8 +9,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>annotated</module>
-        <module>none</module>
+        <module>a</module>
+        <module>b</module>
         <module>ear</module>
     </modules>
 </project>
