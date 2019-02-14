@@ -11,16 +11,9 @@
     <dependencies>
         <dependency>
             <groupId>eu.headcrashing.payara.bugs</groupId>
-            <artifactId>a</artifactId>
+            <artifactId>c</artifactId>
             <version>1</version>
-            <type>war</type>
-        </dependency>
-
-        <dependency>
-            <groupId>eu.headcrashing.payara.bugs</groupId>
-            <artifactId>b</artifactId>
-            <version>1</version>
-            <type>war</type>
+            <type>app-client</type>
         </dependency>
     </dependencies>
 </project>
